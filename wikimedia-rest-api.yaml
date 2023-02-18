@@ -179,7 +179,7 @@ paths:
                 $ref: "#/components/schemas/Page"
   "/page/{title}/with_html":
     get:
-      summary: Get HTML page by title
+      summary: Get JSON page by title with HTML content
       description: Returns a single page in JSON format with HTML
       operationId: getPageByTitleWithHTML
       parameters:
