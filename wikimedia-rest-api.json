@@ -11,10 +11,6 @@
   },
   "servers": [
     {
-      "description": "SwaggerHub API Auto Mocking",
-      "url": "https://virtserver.swaggerhub.com/mjibril/wikimedia-REST-API/1.0.0"
-    },
-    {
       "url": "https://en.wikipedia.org/w/rest.php/v1"
     }
   ],
